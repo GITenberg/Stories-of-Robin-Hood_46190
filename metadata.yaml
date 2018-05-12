@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43649'
     url: http://www.gutenberg.org/2009/agents/43649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46190#Stories-of-Robin-Hood
 gutenberg_issued: '2014-07-04'
 gutenberg_type: Text
 identifiers:
