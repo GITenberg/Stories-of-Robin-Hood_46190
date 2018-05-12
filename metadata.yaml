@@ -1,0 +1,29 @@
+_repo: Stories-of-Robin-Hood_46190
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46190-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Bush, Bertha Evangeline
+    alias: Bush, Bertha E.
+    birthdate: 1866
+    gutenberg_agent_id: '43649'
+    url: http://www.gutenberg.org/2009/agents/43649
+description: ''
+gutenberg_issued: '2014-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Robin Hood (Legendary character) -- Juvenile literature'
+tableOfContents: Winning the sheriff's golden arrow -- How Little John joined Robin
+  Hood -- Allen-a-Dale and Friar Tuck -- Robin Hood and the sorrowful knight -- Robin
+  Hood and the king -- Death of Robin Hood -- Robin Hood and Allen-a-Dale.
+title: Stories of Robin Hood
+url: http://www.gutenberg.org/ebooks/46190
